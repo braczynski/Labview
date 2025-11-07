@@ -1,0 +1,6 @@
+Jan: 31
+Z1 Endurance 94 - 123 2%
+Z2 Moderate 123 - 151 22%
+Z3 Tempo 151 - 161 53%
+Z4 Threshold 161 - 174 24%
+Z5 Anaerobic 174 - 189 0%
